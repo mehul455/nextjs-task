@@ -1,0 +1,11 @@
+.ql-container{
+    height: 100vh !important;
+
+}
+.ql-toolbar.ql-snow{
+    border-radius: 50px !important;
+    background-color: #edf2fa;
+}
+.ql-container {
+    /* width: 1200px !important; */
+}

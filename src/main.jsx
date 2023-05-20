@@ -1,0 +1,15 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import './index.css'
+import '../src/assets/css/header.css'
+import '../src/assets/css/sidebar.css'
+
+import '../src/assets/css/reacr-quill.css'
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+)

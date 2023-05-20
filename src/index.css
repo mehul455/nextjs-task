@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+.flex-container4  {
+    display: flex;
+    
+}
+.space{
+    padding-left: 15px;
+    padding-right:15px;
+}
